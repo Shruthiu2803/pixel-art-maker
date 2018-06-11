@@ -1,0 +1,23 @@
+.Row{
+    display: flex;
+}
+
+.Column{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    border: 1px solid grey;
+}
+
+.Color{
+    display: flex;
+    /*justify-content: space-around;*/
+}
+
+.Palette{
+
+    display: flex;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
